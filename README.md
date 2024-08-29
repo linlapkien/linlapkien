@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linlapkien
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- ❤️‍🔥 I am currently a SWE
+- 🌱 I’m currently learning next.js - typescript
+- 💞️ I’m looking to collaborate on remote 
 - 📫 How to reach me
 - Facebook: https://www.facebook.com/linlapkien/
 - Discord: Lin Lập Kiến #2002, ID: 449873175551934464
